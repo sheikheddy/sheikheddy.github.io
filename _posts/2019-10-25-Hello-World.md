@@ -6,9 +6,9 @@ categories:
 
 Welcome to my new blog! I'll be porting stuff from my old one here soon. Until then, here's a picture of the mandelbrot set:
 
-![_Math is so pretty]({{ site.baseurl }}/assets/images/mandelbrot.jpg)
+![_Math is so pretty](/assets/images/mandelbrot.jpg)
 
-While you're here, make sure to check out [my CV]({{ site.baseurl }}/cv.pdf). 
+While you're here, make sure to check out [my CV](/cv.pdf). 
 
 I've been meaning to make a personal website for quite some time, but I always overcomplicated it and got nowhere. This attempt was finally successful mostly because:
 
