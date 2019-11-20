@@ -1,5 +1,7 @@
 ---
-title: Hello World
+title: "Hello, World!"
+categories:
+  -Blog
 ---
 
 Welcome to my new blog! I'll be porting stuff from my old one here soon. Until then, here's a picture of the mandelbrot set:
