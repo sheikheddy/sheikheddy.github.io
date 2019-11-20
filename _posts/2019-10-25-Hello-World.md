@@ -2,10 +2,8 @@
 title: "Hello, World!"
 categories:
   -Blog
-excerpt: "Welcome to my new blog! I've been meaning to make a personal website for quite some time, but I always overcomplicated it and got nowhere. This attempt was finally successful mostly because:"
 header: 
-  overlay-image: /assets/images/mandelbrot.jpg
-  overlay_filter: 0.5
+  image: /assets/images/mandelbrot.jpg
   caption: "Math is so pretty"
 ---
 
