@@ -2,13 +2,12 @@
 title: "Hello, World!"
 categories:
   -Blog
+excerpt: "Welcome to my new blog! I've been meaning to make a personal website for quite some time, but I always overcomplicated it and got nowhere. This attempt was finally successful mostly because:"
+header: 
+  overlay-image: /assets/images/mandelbrot.jpg
 ---
 
-Welcome to my new blog! I'll be porting stuff from my old one here soon. Until then, here's a picture of the mandelbrot set:
-
-![_Math is so pretty](/assets/images/mandelbrot.jpg)
-
-While you're here, make sure to check out [my CV](/cv.pdf). 
+Welcome to my new blog! While you're here, make sure to check out [my CV](/cv.pdf). 
 
 I've been meaning to make a personal website for quite some time, but I always overcomplicated it and got nowhere. This attempt was finally successful mostly because:
 
