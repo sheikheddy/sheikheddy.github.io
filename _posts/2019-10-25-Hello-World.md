@@ -5,6 +5,8 @@ categories:
 excerpt: "Welcome to my new blog! I've been meaning to make a personal website for quite some time, but I always overcomplicated it and got nowhere. This attempt was finally successful mostly because:"
 header: 
   overlay-image: /assets/images/mandelbrot.jpg
+  overlay_filter: 0.5
+  caption: "Math is so pretty"
 ---
 
 Welcome to my new blog! While you're here, make sure to check out [my CV](/cv.pdf). 
