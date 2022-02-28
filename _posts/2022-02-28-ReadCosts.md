@@ -161,7 +161,11 @@ Oh god, that sentence gives me anxiety. I hadn't really thought about how much d
 
 Yes, emails are more likely to get responses, but it's for the same reason that sending someone a text that says "911! Call me NOW!" is likely to get a response. I'll think carefully about whether it is really appropriate to reach for email as my first choice of channel for communication.
 
-### Mistake 3: Blaming the build systems (this section can be skipped)
+Another quick improvement would be to instantly paste in the notes I take in a meeting into the chat after it's over. I have an entire book worth of words in Obsidian but did not publish most of it. If my tech lead is wondering why my priority queue is not clearing within expected times, he should be able to see the details of what I've been doing and save me a lot of effort by going, "Hey, looks like you're trying to foo when you can bar. Also, I know you're trying to be thorough, but we can safely ignore checking for this unlikely scenario since that risk is not worth eliminating". 
+
+This post is one instance of me trying to dramatically increase transparency.
+
+### Mistake 4: Blaming the build systems (this section can be skipped)
 
 I was overestimating how much the package restore and project compilation steps were contributing to overall development time.
 
