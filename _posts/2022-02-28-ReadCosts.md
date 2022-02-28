@@ -48,21 +48,21 @@
 - **2707** unique websites
 - **4408901** active seconds (approx 6.5 hours daily, including weekends)
 - <mark><b>36%</b> of my time is being spent outside my top 15 sites</mark>
- ![](assets/images/otherlongtail.png)
+ ![](/assets/images/otherlongtail.png)
 
 ### Communication
 - **3322** Teams messages sent in **Jan and Feb**
-![](assets/images/teamsjanfeb.png)
+![](/assets/images/teamsjanfeb.png)
 - **45 hours** sharing audio/screen in **Jan and Feb**
 - **413** sent emails
 	- **April to August** account for **182** (36.4/month)
 	- **September to November** account for **161** (53.7/month)
 	- **December** accounts for **15** (on vacation)
 	- **Jan and Feb** account for **55** (27.5/month)
-![](assets/images/emailcounts.png)
+![](/assets/images/emailcounts.png)
 - **Rank 61** out of **16000+** participants in MS Elite (an internal early adoption + bug reporting platform)
 	- This should not count for much. Most teams were aware of the issues I pointed out and were already planning to fix them. It's difficult to say if my feedback made any difference at all.
-	- Also, I intentionally selected surveys to optimize for points, which goes against the spirit of the competition. Really, the main takeaway is that I had a lot of free time. ![](assets/images/mselite.png)
+	- Also, I intentionally selected surveys to optimize for points, which goes against the spirit of the competition. Really, the main takeaway is that I had a lot of free time. ![](/assets/images/mselite.png)
 
 
 ### Obsidian Notes
@@ -105,11 +105,11 @@ Jan and Feb have been better than September to November. I switched teams to a n
 ### Mistake 1: Extraneous fetching
 I was underestimating how much time was going into the "other" category, mostly because on any given day it wouldn't form a majority of the pie, so I didn't know it was bigger than my top 5 sites put together.
 
-![](assets/images/othertypical.png)
+![](/assets/images/othertypical.png)
 
 This meant that I had an incomplete understanding of the full picture, and my improvement plans were made with incorrect assumptions about where my time was going. For example, I used a content blocker called [News Feed Eradicator](https://chrome.google.com/webstore/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg) to significantly cut down time on Youtube, but the absolute savings were only marginal.
 
-![](assets/images/youtubereduction.png)
+![](/assets/images/youtubereduction.png)
 
 Looking into the 2707 websites, a clear pattern emerges: most of these are technical articles, documentation, or blog posts. 
 
