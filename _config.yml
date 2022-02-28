@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Sheikh Abdur Raheem Ali"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Incoming Software Engineer at Microsoft"
+  bio    : "Software Engineer at Microsoft Defender for Office"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
