@@ -95,7 +95,7 @@
 	- **September to November** account for **4** 
 	- **Jan and Feb** account for **15**
 
-**I have completed 10x fewer tasks than the average for software engineers at my level in my org**
+<mark>I have completed 10x fewer tasks than the average for software engineers at my level in my org</mark>
 
 
 ## Reasoning (and fixes)
