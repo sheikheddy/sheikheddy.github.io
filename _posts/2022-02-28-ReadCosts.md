@@ -63,7 +63,7 @@
 ![](/assets/images/emailcounts.png)
 - **Rank 61** out of **16000+** participants in MS Elite (an internal early adoption + bug reporting platform)
 	- This should not count for much. Most teams were aware of the issues I pointed out and were already planning to fix them. It's difficult to say if my feedback made any difference at all.
-	- Also, I intentionally selected surveys to optimize for points, which goes against the spirit of the competition. Really, the main takeaway is that I had a lot of free time. ![](/assets/images/mselite.png)
+	- Also, I intentionally selected surveys to optimize for points, which goes against the spirit of the competition. Really, the main takeaway is that I had a lot of free time and spent it doing a shallow breadth-first-search of Microsoft. ![](/assets/images/mselite.png)
 
 
 ### Obsidian Notes
