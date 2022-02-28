@@ -114,7 +114,7 @@ This meant that I had an incomplete understanding of the full picture, and my im
 
 Looking into the 2707 websites, a clear pattern emerges: most of these are technical articles, documentation, or blog posts. 
 
-I'm reminded of a [Paul Graham quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work."](http://www.paulgraham.com/selfindulgence.html) {: .notice}
+I'm reminded of a [Paul Graham quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work."](http://www.paulgraham.com/selfindulgence.html) 
 
 It's easy to _feel_ productive when reading about something that is tangentially related to your work. The issue is that it is unlikely that aimless wandering will get you any closer to solving your problem.
 
@@ -207,6 +207,8 @@ Look, I'd be the last person to discourage learning about cool stuff and trying 
 I could do the easy version first. I was actively making a choice every time I went neck deep into the weeds. This was just the latest in a long set of wild goose chases. At the time, I thought the challenge was the best way to become better and have more impact. Now... I'm not so sure. Doing easy work, but lots of it really really fast, I think maybe that'd get me closer to getting a patch into MSBuild eventually than the crap I was doing earlier. 
 
 And as an added perk, my boss will be happier too. I made some decent improvements to my performance in the last two months, and I think I can do even better by reading less and actually solving problems instead of just repeatedly failing at them. 
+
+<mark>My catchphrase at work was "I know stuff". To improve, my identity must change to "I do stuff".</mark>
 
 ### Cliches I'll keep in mind
 - Focus on acquiring hands-on experience with a rapid feedback loop. The economics of writing means that popular text is usually only suitable for a broad audience. History does not define the future.
