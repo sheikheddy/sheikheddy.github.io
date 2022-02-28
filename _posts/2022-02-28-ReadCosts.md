@@ -121,7 +121,7 @@ Once, one of my friends invited me to play a video game with her, and I prepared
 
 <mark>Passive content consumption is not the same thing as thinking.</mark>
 
-## Mistake 2: Chatty I/O
+### Mistake 2: Chatty I/O
 
 I already knew that emails were negatively correlated with productivity, but thought that mine were an exception, and they clearly aren't.
 
@@ -159,7 +159,7 @@ Oh god, that sentence gives me anxiety. I hadn't really thought about how much d
 
 Yes, emails are more likely to get responses, but it's for the same reason that sending someone a text that says "911! Call me NOW!" is likely to get a response. I'll think carefully about whether it is really appropriate to reach for email as my first choice of channel for communication.
 
-## Mistake 3: Blaming the build systems
+### Mistake 3: Blaming the build systems
 
 I was overestimating how much the package restore and project compilation steps were contributing to overall development time.
 
