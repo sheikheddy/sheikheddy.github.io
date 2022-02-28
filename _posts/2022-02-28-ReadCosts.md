@@ -165,7 +165,7 @@ Another quick improvement would be to instantly paste in the notes I take in a m
 
 This post is one instance of me trying to dramatically increase transparency.
 
-### Mistake 4: Blaming the build systems (this section can be skipped)
+### Mistake 3: Blaming the build systems (this section can be skipped)
 
 I was overestimating how much the package restore and project compilation steps were contributing to overall development time.
 
