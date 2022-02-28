@@ -95,6 +95,7 @@
 	- **April to August** account for **1**
 	- **September to November** account for **4** 
 	- **Jan and Feb** account for **15**
+		-Part of this difference can be attributed to my new manager telling me to track my work in ADO during a 1:1. I knew how to use ADO under my old manager, but it wasn't expected.
 
 <mark>I have completed ~10x fewer tasks than the average for software engineers at my level in my org</mark>
 
