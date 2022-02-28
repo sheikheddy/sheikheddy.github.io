@@ -34,7 +34,8 @@
 	- Begin: 2021-08-24 (August 24 2021)
 	- End: 2022-02-27. (February 27 2022)
 - For privacy reasons, raw browser data cannot be shared.
-- Three daily journal entries were not recorded due to travelling. These dates were (2022-11-26, 2022-11-27, 2022-11-28)
+- Three daily journal entries were not recorded due to travelling. 
+	- These dates were (2022-11-26, 2022-11-27, 2022-11-28)
 - Vacation and other time off: 6 weeks, so this is ~20 work weeks.
 - I started at Microsoft on 2021-04-12, but the first 19 weeks of browser data were wiped when I reformatted my work laptop in an attempt to fix a troublesome bug. 
 	- Browser data was not backed up in OneDrive, and I could not keep local copies due to compliance restrictions.
