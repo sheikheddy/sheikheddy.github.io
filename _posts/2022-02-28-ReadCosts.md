@@ -113,7 +113,7 @@ This meant that I had an incomplete understanding of the full picture, and my im
 
 Looking into the 2707 websites, a clear pattern emerges: most of these are technical articles, documentation, or blog posts. 
 
-I'm reminded of a Paul Graham quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work."
+I'm reminded of a [Paul Graham quote: "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work."](http://www.paulgraham.com/selfindulgence.html)
 
 It's easy to _feel_ productive when reading about something that is tangentially related to your work. The issue is that it is unlikely that aimless wandering will get you any closer to solving your problem.
 
@@ -201,7 +201,7 @@ The thing is, I have standards, I want to at least be an *effective* loser. I ha
 
 14 hours, 13 minutes, and 18 seconds. That was how much time I'd spent waiting for the dependency file copy to finish during Jan and Feb. I'd spent more time than that reading about the CLR!!
 
-Look, I'd be the last person to discourage learning about cool stuff and trying to save other people time, but I had to admit one thing: I was doing it for myself, not for my job. Every single time someone asked me to do something, I took on a wayyy harder version of the problem than what they'd assigned to me, and in a way that was kind of selfish.
+Look, I'd be the last person to discourage learning about cool stuff and trying to save other people time, but I had to admit one thing: I was doing it for myself, not for my job. Every single time someone asked me to do something, I took on a wayyy harder version of the problem than what they'd assigned to me, and in a way that was kind of selfish (or at least self-indulgent).
 
 I could do the easy version first. I was actively making a choice every time I went neck deep into the weeds. This was just the latest in a long set of wild goose chases. At the time, I thought the challenge was the best way to become better and have more impact. Now... I'm not so sure. Doing easy work, but lots of it really really fast, I think maybe that'd get me closer to getting a patch into MSBuild eventually than the crap I was doing earlier. 
 
