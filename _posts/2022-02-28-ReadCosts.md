@@ -217,8 +217,11 @@ And as an added perk, my boss will be happier too. I made some decent improvemen
 	- A query to the right person can answer your question faster and more accurately than randomly guessing with the search engine. Your time is not _infinitely_ less valuable than theirs.
 - Mechanical skill does matter.
 	- But you can get very far with easier investments into decision making, teamwork, and monitoring. 
-- Prioritize one thing at a time.
----
+
+## Conclusion
+
+Prioritize one thing at a time.
+
 
 
 
