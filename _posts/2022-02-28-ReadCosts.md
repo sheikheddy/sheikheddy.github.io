@@ -18,13 +18,13 @@
 ## Measurement 
 
 ### Sources 
-- Browser extension "Webtime tracker" from [Peta Sittek - full-stack & mobile developer, life hacker](https://www.petasittek.com/) 
-- Browser extension [Time Tracker - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/time-tracker/mokmnbikneoaenmckfmgjgjimphfojkd) 
-- [BrowsingHistoryView - View browsing history of your Web browsers (nirsoft.net)](https://www.nirsoft.net/utils/browsing_history_view.html) 
+- Browser extension "Webtime tracker" from [Peta Sittek](https://www.petasittek.com/) 
+- Browser extension [Time Tracker](https://chrome.google.com/webstore/detail/time-tracker/mokmnbikneoaenmckfmgjgjimphfojkd) 
+- [BrowsingHistoryView - View browsing history of your Web browsers](https://www.nirsoft.net/utils/browsing_history_view.html) 
 - [Azure DevOps REST API](https://docs.microsoft.com/en-us/rest/api/azure/devops/wit/?view=azure-devops-rest-6.0) 
-- git shortlog --subject --name --commiter --since="" --before="" -- . [How to count git commits per user in a date range? - Stack Overflow](https://stackoverflow.com/questions/31190474/how-to-count-git-commits-per-user-in-a-date-range) 
+- git shortlog --subject --name --commiter --since="" --before="" -- . [Stack Overflow](https://stackoverflow.com/questions/31190474/how-to-count-git-commits-per-user-in-a-date-range) 
 - Microsoft Viva Insights (MyAnalytics)
-- OutlookStatView [Show statistics / report for Outlook mailbox (nirsoft.net)](https://www.nirsoft.net/utils/outlook_statistics.html) 
+- [OutlookStatView Show statistics / report for Outlook mailbox](https://www.nirsoft.net/utils/outlook_statistics.html) 
 - Teams activity analytics (only for **Jan and Feb 2022**)
 - Daily journal notes in [Obsidian](https://obsidian.md/)
 - Weekly status reports
@@ -159,7 +159,7 @@ Oh god, that sentence gives me anxiety. I hadn't really thought about how much d
 
 Yes, emails are more likely to get responses, but it's for the same reason that sending someone a text that says "911! Call me NOW!" is likely to get a response. I'll think carefully about whether it is really appropriate to reach for email as my first choice of channel for communication.
 
-### Mistake 3: Blaming the build systems
+### Mistake 3: Blaming the build systems (this section can be skipped)
 
 I was overestimating how much the package restore and project compilation steps were contributing to overall development time.
 
@@ -207,7 +207,7 @@ I could do the easy version first. I was actively making a choice every time I w
 
 And as an added perk, my boss will be happier too. I made some decent improvements to my performance in the last two months, and I think I can do even better by reading less and actually more solving problems instead of just repeatedly failing at them. 
 
-### Cliches I'll keep in mind (this can be skipped)
+### Cliches I'll keep in mind
 - Focus on acquiring hands-on experience with a rapid feedback loop. The economics of writing means that popular text is usually only suitable for a broad audience. History does not define the future.
 	- Experts in a field already know most of what the books can tell them. Further growth comes by learning directly from reality.
 - You can spend a lot of time planning and still have huge gaps in your mental models. It's good to be careful, but we have a review process for a reason, find the right balance between quality and velocity.
