@@ -1,7 +1,7 @@
 ---
   title: "6,124,890 Page Visits in 6 months: where all my time goes and why I don't get anything done."
   categories:
-  	-Blog
+    -Blog
   author_profile: false 
 ---
 
@@ -20,7 +20,7 @@
 - Browser extension "Webtime tracker" from [Peta Sittek - full-stack & mobile developer, life hacker](https://www.petasittek.com/) 
 - Browser extension [Time Tracker - Chrome Web Store (google.com)](https://chrome.google.com/webstore/detail/time-tracker/mokmnbikneoaenmckfmgjgjimphfojkd) 
 - [BrowsingHistoryView - View browsing history of your Web browsers (nirsoft.net)](https://www.nirsoft.net/utils/browsing_history_view.html) 
-- Azure DevOps REST API [Work item tracking REST API for Azure DevOps Services - Azure DevOps Services REST API | Microsoft Docs](https://docs.microsoft.com/en-us/rest/api/azure/devops/wit/?view=azure-devops-rest-6.0) 
+- [Azure DevOps REST API](https://docs.microsoft.com/en-us/rest/api/azure/devops/wit/?view=azure-devops-rest-6.0) 
 - git shortlog --subject --name --commiter --since="" --before="" -- . [How to count git commits per user in a date range? - Stack Overflow](https://stackoverflow.com/questions/31190474/how-to-count-git-commits-per-user-in-a-date-range) 
 - Microsoft Viva Insights (MyAnalytics)
 - OutlookStatView [Show statistics / report for Outlook mailbox (nirsoft.net)](https://www.nirsoft.net/utils/outlook_statistics.html) 
@@ -93,6 +93,8 @@
 	- **April to August** account for **1**
 	- **September to November** account for **4** 
 	- **Jan and Feb** account for **15**
+
+**I have completed 10x fewer tasks than the average for software engineers at my level in my org**
 
 
 ## Reasoning (and fixes)
