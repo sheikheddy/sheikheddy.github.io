@@ -3,6 +3,7 @@
   categories:
     -Blog
   author_profile: false 
+  classes: wide
 ---
 
 
