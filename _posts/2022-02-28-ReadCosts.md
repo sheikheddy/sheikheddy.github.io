@@ -131,13 +131,13 @@ Emails produce a permanently running thread in your brain's resource pool. Your 
 
 I sometimes observe people who will open social media on their phone and scroll and tap every few minutes, and I always feel bad for them, because being constantly online left less time for them to think and reflect and be in the moment. 
 
-But I was doing the same thing with emails on my laptop! The classic advice is that since answering emails is a necessary evil, you should reserve a slot for it on your calendar, and not touch your inbox outside of that timebox.
+But I was doing the same thing with emails on my laptop! Making inbox rules to stuff distribution lists into folders is not sufficient. The classic advice is that since answering emails is a necessary evil, you should reserve a slot for it on your calendar, and not touch your inbox outside of that timebox. I'll do that for inbound emails.
 
 What about outbound emails? 
 
 Those are even worse. If you're responding to too many emails, the engagement creates more engagement, and that feedback loop means you can notice that the process is too heavy and kill it.
 
-But when you're the one sending emails, the amount of time you can waste is limited only by the size of your audience multiplied by how long it takes to read your message. 
+But when you're the one sending emails, the amount of time you can potentially waste is limited only by the size of your audience multiplied by how long it takes to read your message. 
 
 Few people are nice enough to tell you, "hey, you are broadcasting to too many people, and the content is only relevant to a tiny proportion, consider reducing how much notification spam you're producing". 
 
