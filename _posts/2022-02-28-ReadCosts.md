@@ -208,7 +208,7 @@ I could do the easy version first. I was actively making a choice every time I w
 
 And as an added perk, my boss will be happier too. I made some decent improvements to my performance in the last two months, and I think I can do even better by reading less and actually solving problems instead of just repeatedly failing at them. 
 
-<mark>My catchphrase at work was "I know stuff". To improve, my identity must change to "I do stuff".</mark>
+<mark>My catchphrase at work was "I know stuff". My pride/identity must change to "I do stuff".</mark>
 
 ### Cliches I'll keep in mind
 - Focus on acquiring hands-on experience with a rapid feedback loop. The economics of writing means that popular text is usually only suitable for a broad audience. History does not define the future.
