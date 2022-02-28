@@ -1,7 +1,8 @@
 ---
-title: "6,124,890 Page Visits in 6 months: where all my time goes and why I don't get anything done."
+  title: "6,124,890 Page Visits in 6 months: where all my time goes and why I don't get anything done."
   categories:
-    -Blog
+  	-Blog
+  author_profile: false 
 ---
 
 
