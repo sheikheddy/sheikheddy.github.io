@@ -57,10 +57,10 @@ title: "6,124,890 Page Visits in 6 months: where all my time goes and why I don'
 	- **September to November** account for **161** (53.7/month)
 	- **December** accounts for **15** (on vacation)
 	- **Jan and Feb** account for **55** (27.5/month)
-![](assets/images/mselite.png)
+![](assets/images/emailcounts.png)
 - **Rank 61** out of **16000+** participants in MS Elite (an internal early adoption + bug reporting platform)
 	- This should not count for much. Most teams were aware of the issues I pointed out and were already planning to fix them. It's difficult to say if my feedback made any difference at all.
-	- Also, I intentionally selected surveys to optimize for points, which goes against the spirit of the competition. Really, the main takeaway is that I had a lot of free time. ![[Pasted image 20220228054642.png]]
+	- Also, I intentionally selected surveys to optimize for points, which goes against the spirit of the competition. Really, the main takeaway is that I had a lot of free time. ![](assets/images/mselite.png)
 
 
 ### Obsidian Notes
