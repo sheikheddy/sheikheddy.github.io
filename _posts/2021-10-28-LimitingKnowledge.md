@@ -11,7 +11,7 @@ That doesn’t mean that nobody has tried. We can redefine the problem. Make it 
 Given a human H who has a finite learning time T, we can define a routine R such that R(H, T) = K, where K is the knowledge that human H gains after being subject to R from time 0 to time T.
 
 R can be any combination of activities. Watching recordings, reading books, writing emails, browsing documentation, talking to people, diving into the code, making small changes. What matters is that each activity has a cost associated with it (time) and benefit (knowledge).
-Let’s fix K’ to be our goal: the smallest possible subset of knowledge that stills contain enough information to let us complete our tasks. If we know less than K’, we are underinformed, and if we know more than K’, we learned things that were not relevant/applicable/useful. We can also fix H, since in this scenario H is the human (or Haozhang) who we need to teach/train.
+Let’s fix K’ to be our goal: the smallest possible subset of knowledge that stills contain enough information to let us complete our tasks. If we know less than K’, we are underinformed, and if we know more than K’, we learned things that were not relevant/applicable/useful. We can also fix H, since in this scenario H is the human who we need to teach/train.
 
 Now we’ve reduced our analysis to two variables: R (the routine we use to learn K’) and T (the time it takes to learn K’).
 Observe that T depends on R. If we change R, we either increase or decrease T. For example, if we selected R to be “doing nothing at all”, then T could be unbounded.
