@@ -1,5 +1,5 @@
 ---
-  title: "Garden Paths"
+  title: "Kites and Dreams"
   categories:
     -Blog
   author_profile: false 
