@@ -1,3 +1,10 @@
+---
+  title: "Not a Course Evaluation: Training for Programming Competitions"
+  categories:
+    -Blog
+  author_profile: false 
+  classes: wide
+---
 I did "Training for Programming Competitions" with Dr. Ghassan Qadah this semester. It wasn't a course, but it was one of the most valuable experiences I've had at AUS, and I'd recommend anyone interested in learning how to code (and especially CMP/COE majors) to strongly consider joining it next semester. 
 We met on Wednesdays from 5:00 PM to 6:00 PM. We were split into two groups -- one with those who had taken programming courses before, and another that assumed no prior experience. As a freshman, I was automatically put into the latter. We used the C++ programming language, but honestly 99% of it was the C part.
 Here's how a typical session went: Dr. Ghassan introduced a concept or tool, and it felt like a conversation instead of a lecture. He put some syntax on the board and then provided some insight into what was actually going on and why we did it like that. If anyone interrupted with a way to do it differently, he'd smile widely and say "Yes, we could also do that!" and compare the two ways with pinpoint precision and brevity, and point out other approaches in a style that made them seem completely obvious and natural. Then he would give us a problem. We would try to do it. If we were stuck we could raise our hand and he'd come over, but even when he was working with an individual he still had this awareness of the wider group so he'd never get carried away. These problems were relatively easy (like reverse sorting an array with a tiny twist), but there were always these tricks and edge cases that meant that it was suitable for a wide range of skill levels. 
