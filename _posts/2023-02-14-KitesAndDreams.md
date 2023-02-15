@@ -19,7 +19,7 @@ Was it worth it? What is worth? The dollar in the miser's pocket? The jewel in t
 
 If he could have kept all of it, he would have, health, relationships, success, and all the avarice of mankind. Alas, mortality! Alas, scarcity! Alas, humanity! Who could blame him if he had let go of the kite he was flying. All dreams lie beyond the reach of the sensible. Nay, I refuse to decry them, a normal life is a fortune.
 
-It was not thrown away in a moment. It was the gradually increasing pull of the string, threatening to sweep you out to sea, and you held your ground, steadfast, but someone cruel had bound the thread to his heart, so would he let go, and cease to live? So he drowned, to survive.
+It was not thrown away in a moment. It was the gradually increasing pull of the string, threatening to sweep you out to sea, and you held your ground, steadfast, but someone cruel had bound the thread to his heart, so would he let go, and cease to live? Thus he drowned, to survive.
 
 Was it ever a choice? Was this nature, playing out, predetermined, inevitable? Perhaps so, but I do not see it that way, it was agency, not destiny, and every day he questioned whether his path was worthy, all those who ate fruit but did not care to garden smiled, crinkled their nose in polite disgust, and told him such foolish motives were only appropriate for fantasies and hackathons. Where there is no risk and no skin in the game, no novelty nor innovation, even blind lepers saw clearly: approval so obviously faked. And certainty that kites always come crashing down.
 
